@@ -1,11 +1,10 @@
 ## Hi there 👋
 - 👋 Hi, I’m @ZimranSohail
-- 👀 I’m interested in web development and AI
-- 🌱 I’m currently learning basics of web development
-- 💞️ I’m looking to collaborate on personal project and other projects i might find on my level
+- 👀 I’m interested in Machine Learning and Data Science
+- 🌱 I’m currently learning Basics of Machine Learning and Polishing my Data Science concepts
+- 💞️ I’m looking to collaborate on personal projects and other open source contributions
 - 📫 How to reach me zimransohail98@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: 
 
 <!--
 **ZimranSohail/ZimranSohail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
