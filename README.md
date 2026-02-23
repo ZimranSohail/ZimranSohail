@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 👋 Hi, I’m @ZimranSohail.
-- 👀 My major interest is contributing to the evolution of the "AI" Field.
+- 👀 My life's goal is to contribute to the evolution of AI.
 - 🌱 I’m currently learning Basics of Machine Learning and Polishing my Data Science concepts.
 - 💞️ I’m looking to collaborate on personal projects and other open source contributions.
 - 📫 How to reach me zimransohail98@gmail.com.
